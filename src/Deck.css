@@ -1,0 +1,29 @@
+.Deck-cardarea{
+    margin-top: 80px;
+    
+}
+.Deck-title{
+    color: #ffffffe5;
+    font-size : 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.Subtitle{
+    font-size: 20px;
+}
+.Deck-btn{
+    background:none;
+    outline:none;
+    font:inherit;
+    margin:0.5em;
+    padding: 1em 2em;
+    color : rgba(116, 237, 209, 0.646);
+    border: 3px solid;
+    transition: 0.25s;
+}
+.Deck-btn:hover{
+    border-color: rgb(92, 170, 211);
+    color:white;
+    box-shadow: inset 0 0 0 2em rgb(21, 132, 157);
+
+}
